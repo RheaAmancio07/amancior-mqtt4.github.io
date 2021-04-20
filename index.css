@@ -1,0 +1,12 @@
+body{
+    background: url('https://i.pinimg.com/originals/d3/e6/a6/d3e6a605d14457571d4a0c2c28cd0b4c.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: inherit;
+}
+
+form, #messages{
+    background-color: #5bf5ce;
+}
+
